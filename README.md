@@ -20,5 +20,5 @@
 
  </div> <hr>
   
-![Snake animation](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS/blob/output/github-contribution-grid-snake.svg)
 <hr>
