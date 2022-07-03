@@ -6,17 +6,16 @@
 
 <div align="center"><br>
   
-  <img alt="HTML" align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 
   <img alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-
-  <img alt="Bootstrap" align="center" height="30" width="30" src="https://github.com/Nickie316/backend/blob/master/Icons/Bootstrap.png">
-
-<!--   <img alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"> -->
-  <img alt="Js" height="30" width="40" src="https://static.cdnlogo.com/logos/j/69/javascript.svg">
   
-  <img alt="React" height="30" width="40" align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img alt="JS" height="30" width="40" src="https://static.cdnlogo.com/logos/j/69/javascript.svg">
+  
+  <img alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
   <img alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+
+  <img alt="Bootstrap" height="30" width="30" src="https://github.com/Nickie316/backend/blob/master/Icons/Bootstrap.png">
 
  </div>
