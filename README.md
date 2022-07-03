@@ -18,4 +18,7 @@
 
   <img alt="Bootstrap" height="30" width="30" src="https://github.com/Nickie316/backend/blob/master/Icons/Bootstrap.png">
 
- </div>
+ </div> <hr>
+  
+![Snake animation](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS/blob/output/github-contribution-grid-snake.svg) 
+<hr>
