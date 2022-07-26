@@ -37,7 +37,7 @@
  </div> <hr>
 
 <div align="center">
-  <h3 align="center">Favorite Languages 🥰</h3> 
+  <h3 align="center">Favorite Technologies 🥰</h3> 
 
   <img alt="badgeJS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="badgeNode" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
