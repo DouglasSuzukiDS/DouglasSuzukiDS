@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h3 align="center">Frontend Developer 👨‍💻 & Computer Technician 🛠 in Training 🎓</h3> <hr>
+<h3 align="center">Fullstack Developer 👨‍💻 & Computer Technician 🛠 in Training 🎓</h3> <hr>
 
 <h4 align="center">Welcome to my profile on Github 🤝</h4> <hr>
 
