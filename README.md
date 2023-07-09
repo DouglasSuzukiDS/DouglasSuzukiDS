@@ -23,12 +23,24 @@
   <img alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   
   <img alt="JS" height="30" width="40" src="https://static.cdnlogo.com/logos/j/69/javascript.svg">
+
+  <img alt="TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   
   <img alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
   <img alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 
-  <img alt="Bootstrap" height="30" width="30" style="margin: 50px" src="https://github.com/Nickie316/backend/blob/master/Icons/Bootstrap.png">
+  <img alt="SASS" height="30" width="30" style="margin: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+
+  <img alt="TailwindCSS" height="32" width="32" style="margin: 50px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+
+  <img alt="Styled-Components" height="30" width="30" style="margin: 50px" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png">
+
+  <img alt="Bootstrap" height="30" width="30" style="margin: 50px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+
+  <img alt="Vite" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png">
+
+  <img alt="Yarn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
   
   <img alt="VSC" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
