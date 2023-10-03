@@ -57,4 +57,7 @@
 </div> <hr>
 
   ![Snake animation](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS/blob/output/github-contribution-grid-snake.svg)
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DouglasSuzukiDS&repo=DouglasSuzukiDS&theme=react)](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS)
+
   <hr>
