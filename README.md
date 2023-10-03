@@ -34,7 +34,7 @@
 
   <img alt="TailwindCSS" height="32" width="32" style="margin: 50px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
 
-  <img alt="Styled-Components" height="30" width="30" style="margin: 50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40matt.readout%2Fadding-css-animations-with-styled-components-6c191c23b6ba&psig=AOvVaw3FfkAtHPSFe_RTARjmUbZ3&ust=1696378896375000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDK7__N2IEDFQAAAAAdAAAAABAI">
+  <img alt="Styled-Components" height="30" width="30" style="margin: 50px" src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
 
   <img alt="Bootstrap" height="30" width="30" style="margin: 50px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 
