@@ -59,5 +59,3 @@
   ![Snake animation](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS/blob/output/github-contribution-grid-snake.svg)
   
   <hr>
-
-  ![Snake animation](https://github.com/Nickie316/Nickie316/blob/output/github-contribution-grid-snake.svg) 
