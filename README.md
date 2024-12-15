@@ -56,7 +56,6 @@
   <img alt="badgeReact" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div> <hr>
 
-![Snake animation](https://github.com/DouglasSuzukiDS/DouglasSuzukiDS/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasSuzukiDS/DouglasSuzukiDS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasSuzukiDS/DouglasSuzukiDS/output/github-contribution-grid-snake.svg">
