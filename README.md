@@ -44,6 +44,8 @@
   
   <img alt="VSC" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 
+  <img alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg">
+
  </div> <hr>
 
 <div align="center">
